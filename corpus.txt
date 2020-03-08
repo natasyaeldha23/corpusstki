@@ -1,0 +1,422 @@
+<DOC>
+    <ID>NEO-1</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>Sinyal Misterius dari Luar Angkasa Berulang Tiap 16 Hari</TITLE>
+    <TEXT>
+    REPUBLIKA.CO.ID, AMSTERDAM—Fast radio burst (FRBs) mungkin merupakan anomali paling misterius di ruang angkasa. Menurut sebuah studi baru, sebuah FRB telah terlihat berasal dari galaksi 500 juta tahun cahaya dari bumi dan berulang setiap 16 hari. Tidak ada yang tahu alasan kejadian ini ada. Dikenal sebagai FRB 180916.J0158 + 65, FRB ini mengirimkan semburan gelombang radio untuk jangka waktu empat hari, berhenti untuk jangka waktu 12 hari, lalu mengulanginya sendiri. 28 pola awal pertama kali diamati antara September 2018 dan Oktober 2019. 
+    “Kami menyimpulkan ini adalah periodisitas pertama yang terdeteksi dalam jenis apa pun dalam sumber FRB,” kata peneliti melalui tulisan dalam penelitian tersebut. Seorang mahasiswa doktoral di Universitas Amsterdam Kenzie Nimmo mengungkapkan lokasi yang ditemukan secara seluruhnya, berbeda dari  lokasi FRB berulang sebelumnya. “Perbedaan antara mengulangi dan tidak mengulangi rentetan radio yang cepat menjadi kurang jelas dan kami berpikir peristiwa ini mungkin tidak terkait dengan jenis galaksi atau lingkungan tertentu. Mungkin FRB berasal dari lokasi kebun binatang besar di seluruh alam semesta dan hanya memerlukan beberapa kondisi khusus untuk menjadi terlihat,” ujar Nimmo, seperti yang dilansir dari Fox News, Selasa (11/2) 
+    Tidak jelas apa yang menyebabkan pola berulang, tetapi abstrak penelitian ini ,menunjukkan ada mekanisme modulasi periodik baik dari ledakan emisi itu sendiri atau melalui amplikasi eksternal, atau penyerapan dan model yang tidak disukai menggunakan proses sporadis murni.
+    Ada kemungkinan FRB bisa mengorbit objek padat, misalnya lubang hitam menyebabkan pola berulang. Mungkin itu juga berasal dari sistem bintang biner. Namun, diperlukan lebih banyak penelitian. Beberapa peneliti berspekulasi mereka berasal dari peradaban makhluk luar angkasa. Tetapi yang lain, termasuk Search for SETI mengatakan penjelasan benar-benar tidak masuk akal. Pertama kali ditemukan pada 2007, FRB relatif baru bagi para astronom dan asal usulnya yang misterius. Menurut ScienceAlert, beberapa dari mereka dapat menghasilkan energi sebanyak 500 juta matahari dalam beberapa milidetik. Pada Juli 2018, sebuah FRB yang menghantam Bumi hampir 200 megahertz lebih rendah daripada rentetan radio lainnya yang pernah terdeteksi.
+    </TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-2</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>Proses Panjang Deteksi Novel Corona Virus di Indonesia</TITLE>
+    <TEXT>
+    TRIBUNNEWS.COM, JAKARTA - Kementerian Kesehatan terus melaporkan kalau belum ada yang positif novel corona virus di Indonesua atau zero novel corona virus. Keadaan tersebut justru diragukan karena diduga peralatan dan penelitian di Indonesia tidak mumpuni untuk memeriksa sample novel corona virus di Indonesia. Sekretaris Direktorat Jenderal Pencegahan dan Pengendalian Penyakit (P2P) Kemenkes Achmad Yurianto pun memjelaskan proses pemeriksaan virus tersebut di Indonesia. Pertama, prosesnya dipastikan jauh berbeda dari memeriksa golongan darah karena media yang diteliti cukup sulit yakni menggunakan lendir di saluran pernapasan.
+    “Spesime yang akan kita periksa adalah mukosa atau lendir saluran nafas bukan darah dan bukan urin,” ucap Yuri di Kementerian Kesehatan, Jakarta Selatan, Senin (10/2/2020).
+    Kemudian spesimen tersebut dibawa ke Balitbangkes dengan sertifikasi BSL level 3 untuk dilakukan pemeriksaan sebanyak dua kali pada dua sample dari satu pasien.
+    Tahap 1 : Prosedur Klinis
+    Untuk tahapan ini sample yang diambil jika mengalami gejala yang mengarah kepada novel corona virus seperti influenza berat, panas badan, gangguan pernafasan dan batuk.
+    Jika mengalami gejala tersebut juga tidak langsung diambil swab tapi coba diintervensi dengan pemberian antiobiotik dulu untuk mengetahui gejala tersebut akibat bakteri atau virus.
+    “Jika intervensi dengan antibiotik panasnya turun, pasti bukan virus, karena virus tidak akan memberikan respon apapun terhadap penggunaan antibiotik,” kata Yuri.
+    Kalau setelah diberikan antiobitok gejala tidak mereda dan hasil pemeriksaan lab likositnya rendah, maka bisa dicurigai penyakit tersebut karena virus dan mulai diperiksa dengan swab.
+    “Kita akan mengambil spesimen dia dan melakukan isolasi dan kita anggap dia sebagai pasien dengan suspect, suspect dimaknai dugaan,” kata Yuri,
+    Spesimen tersebut kemudian akan masuk ke tahapan sequencing untuk pemeriksaan jenis virus dan di periksa dengan pan corona.
+    Pan corona merupakan reagen untuk memeriksa apakah spesimen tersebut masuk ke dalam DNA virus corona atau bukan.
+    Kalau positif jenis DNA corona maka akan dilakukan ke tahapan sequencing lanjutan untuk memastikan positif novel corona virus atau tidak.
+    “Kita akan sequencing dengan novel corona yang spesimennya sudah kita dapatkan dari CDC Atlanta baru dimatch-kan. Kalau ternyata confirm, maka positif,” tutur Yuri.
+    Untuk metode ini hasil pemeriksaan spesimen bisa keluar setelah dua sampai tiga hari karena proses dari setiap tahapan di atas.
+    Sementara itu dari 62 spesimen yang diterima oleh Balitbangkes hanya baru sampai tahapan di pan corona karena di tahapn tersebut semuanya negatif corona.
+    “Dari sekian banyak sampel, itu tidak ada satupun yang lolos dari pemeriksaan pan corona, jadi bukan corona. Sebagian besar ini adalah flu musiman di kita H1N1,” ungkap Yuri.
+    Sebagai informasi novel corona virus adalah jenis virus terbaru corona yang wabah pertamanya terjadi di Wuhan, China Desember 2019 lalu sehingga dinamakan novel atau artinya baru  corona virus atau 2019-nCov.
+    Beberapa jenis corona yang telah ada dan biasanya ditularkan dari hewan diantaranya MERS, SARS.
+    Ada juga virus corona yang menular dari binatang ke manusia adalah corona tipe alfa dan beta.   
+    Tahap 2 : Pemeriksaan dengan PCR
+    Pemeriksaan kedua yakni dengan metode Polymerase Chain Reaction (PCR) pemeriksaanya lebih singkat.
+    Dengan metode yang juga digunakan di Singapura dan Australia ini hasil swap akan lansung ketahun novel corona virus.
+    “Dengan PCR ini kita hanya dihadapkan pada pilihan novel corona atau buka,  itu saja. Sehingga pemeriksaannya bisa lebih cepat,” tutur Yuri.
+    Dua metode ini diterapkan bersamaan bukan hanya pada novel corona virus tapi juga jenis turunan virus corona lainnya.
+    ”Kalau bukan novel corona virus dia akan negatif, sekalipun itu corona yang lain, dua metode ini kita gunakan secara bersamaan,” kata Yuri.
+    Hasil Pemeriksaan Balitbangkes Dilaporkan ke WHO
+    Kementerian Kesehatan pun terus memberikan laporan terkait kondisi keadaan novel corona virus di Indonesia ke WHO.
+    Yuri menjelaskan sesuai prosedur WHO, setiap hasil pemeriksaan dugaan novel corona virus di Badan Penelitian dan Pengembangan Kesehatan (Balitbangkes) walaupun hasilnya negatif laporannya tetap harus di kirimkan ke WHO.
+    “Seluruh pemeriksaan dari yang pertama sampai yang terakhir semuanya kita laporkan ke WHO,” ucap Yuri.
+    Hasil laporan yang dikirimkanbtersebut kemudian akan diverifikasi lebih lanjut oleh pihak WHO untuk menilai kinerja dari lab di Indonesia.
+    “Semua spesimen yang kita periksa, ini nanti akan dilakukan verifikasi oleh WHO untuk melihat akreditasi validitas pemeriksaan oleh lab kita,” kata Yuri.
+    Dari hasil pelaporan seluruh spesimen dugaan novel corona virus di Indonesia pun dinyatakan tidak ada masalah oleh WHO.
+    “Alhamdulilah sampai sekarang masih tidak ada masalah. who juga mengatakan apa yang kita lakukan sudah benar,” ungkap Yuri.
+    </TEXT>
+</DOC>
+<DOC>
+   <ID>NEO-3</ID>
+   <NIM>175150201111067</NIM>
+   <TITLE>Ternyata Ini Maksud 'Kode' Driver Grab di Kasus Viral Salah Arah</TITLE>
+   <TEXT>
+   Jakarta - Karyawati bernama Tian (25) sempat melaporkan driver Grab Car, Muhammad Imam Sohibi karena kasus salah arah. Tian sempat menaruh kecurigaan, terlebih karena Imam saat itu berkomunikasi dengan 'kode-kode' tertentu. Dalam jumpa pers dengan media di Polda Metro Jaya, Tian menyampaikan dirinya dan Imam telah dimediasi oleh polisi terkait kejadian itu. Dalam mediasi itu, Tian pun akhirnya mengetahui maksud ucapan Imam yang semula dikira sebagai 'kode' itu. "Saya sudah diklarifikasi (oleh penyidik) juga karena yang saya dengar ada suara bisik-bisik (menyebut kode itu)," kata Tian kepada wartawan di Polda Metro Jaya, Jakarta, Selasa (11/2/2020).
+   Dari hasil mediasi itu, ternyata sang sopir saat itu sedang menelepon keluarganya. Sang sopir berbisik saat mengangkat telepon, sehingga dia menduga sang sopir itu sedang memberikan kode-kode tertentu. "Beliau menerima telepon tersebut, ternyata pada saat itu telah dijelaskan juga dan telah diperiksa di panggilan telepon dia, itu dia sedang menelepon orang tuanya, tetapi memang dia pelankan suaranya karena dia tidak mau mengganggu katanya," ungkap Tian.
+   </TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-4</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>PKS Apresiasi Pemerintah Tak Pulangkan WNI Eks ISIS </TITLE>
+    <TEXT>
+    Jakarta - PKS setuju dengan sikap pemerintah yang telah memutuskan tak memulangkan WNI eks ISIS. PKS menilai pemerintah harus bersikap hati-hati terhadap pemulangan WNI eks ISIS tersebut. "PKS apresiasi sikap pemerintah terkait anggota ISIS," kata Ketua Fraksi PKS DPR Jazuli Juwaini saat dihubungi, Selasa (11/2/2020). Menurut Jazuli, soal pemulangan WNI eks ISIS ini bukan perkara sederhana karena mereka dinilai sudah sejak awal memilih keluar dari Indonesia dan menjadi pengikut ISIS. Jazuli meminta masalah ini dikaji secara cermat.
+    "Permasalahan ini perlu dikaji secara hati-hati, cermat, dan terukur. Jangan sampai dampak negatif justru menimpa negara kita akibat penyebaran paham mereka di Tanah Air. Padahal kenyataannya mereka yang terpapar bahkan pernah menjadi kombatan ISIS ini tidak mau secara tegas kembali taat dan tunduk pada Pancasila dan UUD 1945," ujarnya. Lebih lanjut, Jazuli menilai penyelesaian permasalahan WNI eks ISIS tidak hanya menjadi masalah Indonesia, tapi juga membutuhkan intervensi PBB. Menurutnya, ISIS sudah menjadi ancaman dunia internasional.
+    "Karena ISIS sudah menjadi ancaman keamanan internasional, sementara anggota ISIS berasal dari berbagai negara, maka Perserikatan Bangsa-Bangsa (PBB) harus turun tangan melakukan deteksi, identifikasi, dan karantina (isolasi) serta menyelenggarakan program deradikalisasi agar jangan sampai menyebarkan virus ISIS-nya ke negara masing-masing," ungkap Jazuli. Sebelumnya, pemerintah memutuskan tidak memulangkan WNI eks ISIS ataupun yang terlibat jaringan teroris lainnya di luar negeri. Hal ini didasari keputusan rapat dengan Presiden Jokowi di Istana. "Pemerintah tidak ada rencana memulangkan teroris. Tidak akan memulangkan FTF (foreign terrorist fighter) ke Indonesia," kata Menko Polhukam Mahfud Md di Istana Kepresidenan Bogor, Jawa Barat, Selasa (11/2).
+    </TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-5</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>Gubernur Riau Tetapkan Siaga Darurat Karhutla hingga Oktober 2020</TITLE>
+    <TEXT>
+    Pekanbaru - Gubernur Riau Syamsuar menetapkan status siaga darurat kebakaran hutan dan lahan (karhutla) di wilayahnya. Penetapan status ini dilakukan untuk mengantisipasi karhutla di tahun 2020. "Tiga kabupaten yang menetapkan siaga darurat itu Kabupaten Bengkalis, Kabupaten Siak, dan Kota Dumai. Karenanya kita di provinsi hari ini menetapkan siaga darurat untuk lebih cepat penanggulangan agar tidak terjadi bencana kebakaran lahan yang dapat menimbulkan bencana asap," kata Syamsuar, Selasa (11/2/2020). Hal ini disampaikan dalam Rapat Koordinasi Penetapan Status Siaga Darurat Bencana Kebakaran Hutan dan Lahan Provinsi Riau tahun 2020 di Gedung Daerah Riau, Jl Diponegoro Pekanbaru. Acara ini juga dihadiri Kapolda Riau, Danrem Wira Bima, Danlanud Roesmin Nurjadin, BNPB dan forum rektor.
+    Status siaga darurat ditetapkan terhitung 11 Februari hingga 31 Oktober 2020. Status siaga darurat karhutla ditetapkan setelah ditemukan karhutla di tiga kabupaten tersebut. Menurut Syamsuar, berdasarkan data BMKG terhitung Januari-Maret 2020 Riau memasuki musim kemarau tahap pertama. Selanjutnya terhitung bulan Juli-September musim kemarau tahap kedua. "Luas kebakaran terhitung Januari-Februari sudah mencapai 271 ribu hektare. Sedangkan penegakan hukum di jajaran Polda Riau ada 21 kasus karhutla yang tengah diproses lebih lanjut," katanya.
+    Syamsuar menyebutkan, luas lahan gambut di Riau ada 4,9 juta hektare atau 54 persen dari luas wilayah Riau. Selain itu masalah yang dihadapi di lapangan, titik kebakaran sulit terjangkau dan kadang petugas kesulitan mendapatkan air untuk memadamkan karhutla. "Hal ini menunjukkan bencana tidak bisa ditangani secara parsial masing-masing pihak. Perlu kerja sama semua pihak," kata Syamsuar. Karena itu Pemprov Riau tahun ini lebih cepat menetapkan siaga darurat karhutla agar penanggulangan lebih cepat dilakukan.
+    "Pada data tahun 2018 lalu ada 178 desa di Riau rawan bencana karhutla. Data tahun 2019 bertambah menjadi 246 desa rawan karhutla. Ini yang perlu kita antisipasi bersama di tahun 2020. Semua pihak harus berkomitmen menanggulangi karhutla agar Riau tahun 2020 ini terbebas dari bencana asap," tutup Syamsuar.
+    </TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-6</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>Istri Eks Sekretaris MA Nurhadi Mangkir dari Panggilan KPK</TITLE>
+    <TEXT>
+    Jakarta - Istri mantan Sekretaris Mahkamah Agung (MA) Nurhadi, Tin Zuraida, tidak memenuhi panggilan KPK. Tin dipanggil terkait kasus suap-gratifikasi Rp 46 miliar berkaitan dengan pengurusan perkara perdata di MA yang menjerat suaminya. KPK belum memperoleh kabar dari Tin terkait ketidakhadirannya. "Tin Zuraida (PNS/Staf Ahli Bidang Politik & Hukum KemenPAN-RB) tidak bisa hadir. Penyidik belum memperoleh konfirmasi terkait ketidakhadirannya," kata Plt Jubir KPK Ali Fikri di kantornya, Jl Kuningan Persada, Jakarta Selatan, Selasa (11/2/2020). Ali memastikan surat panggilan tersebut sudah sampai ke alamat Tin. Ali menyebut penyidik akan menjadwalkan pemanggilan ulang.
+    "Sehingga nanti kami akan melakukan panggilan kembali, panggilan kedua sebagai saksi untuk istri dari NH (Nurhadi)," sebutnya. Selain Tin, Ali mengatakan ada dua saksi lain yang absen dalam kasus tersebut. Kedua saksi itu adalah Yosef B Badeoda selaku advokat dan Lusi Indriati, yang disebut sebagai istri Hiendra Soenjoto. Hiendra merupakan salah satu tersangka dalam kasus ini. Pemanggilan ketiganya diperlukan menjadi saksi untuk Hiendra. 
+    KPK sebelumnya menyatakan penyidikan kasus ini juga mengarah ke Tin setelah Nurhadi ditetapkan sebagai tersangka. Namun, KPK belum merinci sejauh mana keterlibatan Tin dalam kasus tersebut. Untuk diketahui, Tin membuang uang dan dokumen ke toilet saat rumahnya digerebek KPK. Rumahnya digerebek setelah Panitera PN Jakpus, Edy Nasution, ditangkap. Akhirnya Tin dipanggil KPK dan bersaksi di Pengadilan Tipikor, Jakarta. Tin menceritakan alasannya mengambil sobekan dokumen perkara yang sudah disobek dan dibuang suaminya ke tempat sampah.
+    "Iya karena (tempat sampah) itu sudah penuh dengan botol dan sisa air buangan. Basah, jadi saya ambil," ucap Tin saat bersaksi pada Januari 2019. Sementara itu, dalam perkara ini, KPK menetapkan Nurhadi; Rezky Herbiyono, yang merupakan menantu Nurhadi; dan Hiendra Soenjoto, selaku Direktur Utama PT Multicon Indrajaya, sebagai tersangka. Nurhadi disebut menerima total suap dan gratifikasi sekitar Rp 46 miliar.
+    </TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-7</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>Lifting Pertamina EP 2019 Lampaui Target</TITLE>
+    <TEXT>
+    Jakarta-PINews.com-  PT Pertamina EP, mencatat hasil positif untuk angka lifting minyak selama tahun 2019.  “Pada tahun 2019, PEP meraih angka produksi minyak sebesar 82.213 BOPD dan gas sebesar 959 MMSCFD. Sedangkan untuk lifting gas berada di angka 749 MMSCFD dan lifting minyak berada di angka 82.190 BOPD atau 102 % dibandingkan dengan target RKAP sebesar 80.733 BOPD”, demikian disampaikan President Director Pertamina EP Nanang Abdul Manaf di Jakarta .
+    Lebih lanjut Nanang mengungkapkan untuk kinerja pemboran pada tahun 2019, Pertamina EP telah melaksanakan sebanyak sebelas sumur dan untuk pemboran eksploitasi telah dibor sebanyak Sembilan puluh Sembilan sumur.  Untuk kinerja seismik 3D, telah terlaksana seluas 469 km2 dan untuk seismik 2D telah terlaksana sebesar 496 km, atau 140% dari target sebesar 355 km.
+    Dalam hal keuangan, laba bersih yang diperoleh oleh PEP adalah sebesar USD 634 Juta dan Ebitda sebesar USD 1.821 Juta. Komitmen PEP dalam bidang Health Safety Security and Environment juga dibuktikan dengan Zero Fatality dan Zero Lost Time Incident dengan jumlah jam kerja selamat sebanyak 99.741.534.
+    Nanang juga menegaskan, ke depan harus ada penambahan cadangan baik minyak dan gas di tiap field dan asset.  Dia mengatakan, saat ini beberapa sumur field sudah memasuki usia senja. Untuk itu perlu diremajakan lagi dengan cara menemukan titik titik sumur baru sebagai cadangan.
+    Sementara di tahun 2020, Pertamina EP ditargetkan dapat menghasilkan minyak sebesar 85.000 BOPD dan gas sebesar 932 MMSCFD.  “Untuk mencapai target tersebut, ada beberapa tantangan yang harus kami hadapi antara lain memenuhi harapan Stakeholder produksi minyak nasional sebesar satu juta BOPD tahun 2030, optimalisasi harga gas, mempertahankan trend positif tiga tahun terakhir migas PEP (2017-2019), Ageing Production Facilities, EOR Implementation, dan big discovery,” jelas dia.
+    Lebih jauh ia menjelaskan beberapa point strategi yang akan dilaksanakan demi pencapaian Rencana Kerja tahun 2020 diantaranya adalah menjaga dan meningkatkan lagi kinerja HSSE, Eksekusi program kerja On Time On Budget On Schedule and On Return dengan mengimplementasikan Bussiner Acceleration Program (BAP) secara konsisten. Selain itu juga menerapkan Cost Effectiveness & Efficiency serta menerapkan Good Change Management.
+    "Strategi kami juga harus agresif di awal tahun ini serta menerapkan budaya sharing dan sinergi antar asset serta field," tambahnya.
+    Sementara itu Komisaris Utama Pertamina EP Basuki Trikora Putra mengucapkan apresiasi terhadap kinerja Pertamina EP selama 2019. Khususnya di bidang lifting minyak yang sangat membanggakan serta catatan yang bagus di bidang HSSE. Beliau juga bersyukur dengan peraihan Piala PROPER 2019 dengan predikat emas sebanyak empat piala, begitu juga dengan raihan 12 proper hijau, dan 4 proper biru.
+    "Kami menyampaikan terima kasih dan bangga atas kinerja Pertamina EP tahun 2019 ini. Semoga PEP dapat terus menjalankan kegiatan operasional dengan menjaga aspek safety serta memperhatikan Good Corporate Governance. Kami berharap kinerja PEP dapat terus meningkat sehingga terus mendukung ketahanan energi nasional”, pungkasnya.
+    </TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-8</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>Persebaran Corona Melambat, Wall Street Dibuka Naik 120 Poin</TITLE>
+    <TEXT>
+    Jakarta, CNBC Indonesia - Bursa saham Amerika Serikat (AS) dibuka menguat pada perdagangan Selasa (11/2/2020) karena investor yakin wabah virus corona di China kian terkendali persebarannya sehingga tidak bakal memicu resesi dunia.
+    Indeks Dow Jones Industrial Average melompat 120 poin (0,4%) pada pembukaan perdagangan pukul 08:30 waktu setempat (21:30 WIB), tetapi kemudian surut menjadi 95,61 poin (0,4%) selang 20 menit kemudian ke 29.375,7. Indeks Nasdaq naik 50,6 poin (0,53%) ke 9.677,9 dan S&P 500 tumbuh 14,9 poin (0,45%) ke 3.367.
+    Investor terus memantau berita wabah corona setelah Komisi Kesehatan China pada Senin malam mengumumkan bahwa korban jiwa telah mencapai 1.016 orang, dengan 42.638 lainnya dinyatakan positif mengidap virus tersebut.
+    Namun kekhawatiran seputar dampak buruk virus tersebut terhadap ekonomi China dan dunia agak terkurangi oleh data Universitas Johns Hopkins yang menunjukkan angka kasus konfirmasi virus baru menyentuh titik terendahnya sejak Januari, memicu optimisme bahwa wabah itu tidak menyebar lebih jauh.
+    Demikian juga data positif ketenagakerjaan dan manufaktur AS yang membantu mengurangi kekhawatiran pemodal. Akibatnya, Indeks S&P 500 dan Nasdaq menyentuh level tertinggi baru pada Senin, sedangkan Dow Jones melompat lebih dari 170 poin.
+    "Tatkala pasar saham mengasumsikan tak ada dampak negatif virus tersebut dan kita terus mengangkat harga saham, ke depan bakal lebih banyak pembicaraan menyoroti kinerja emiten setelah semuanya dirilis," tutur Peter Boockvar, Chief Investment Officer Bleakley Advisory Group, sebagaimana dikutip CNBC International.
+    Dari kabar korporasi, rencana merger antara T-Mobile dan Sprint secara legal disetujui. Akibatnya, saham Sprint melambung lebih dari 60% sedangkan saham T-Mobile naik 9,7%. Dari sisi data ekonomi, akan ada rilis pembukaan lapangan kerja versi JOLTS periode Desember.
+    Gubernur Federal Reserve Jerome Powell dijadwalkan bersaksi di depan Kongres AS. Dalam naskah testimoni yang sudah disiapkan itu, dia mengatakan bahwa bank sentral "memonitor ketat" situasi virus corona terkait potensi pukulannya terhadap China dan ekonomi global. 
+    Selain itu, pemodal juga memantau pemangkasan belanja negara setelah Presiden AS Donald Trump mengalokasikan anggaran senilai US$ 4,8 triliun untuk tahun fiskal tahun depan. Draf anggaran tersebut mengundang kritik dari anggota kongres dari Partai Demokrat atas rencananya menghentikan program Medicare, Medicaid, dan jaring pengaman sosial. 
+    Draf anggaran itu juga memangkas pinjaman kuliah untuk warga AS hingga US$ 170 miliar, sementara anggaran terkait pengayaan uranium mendapat alokasi US$ 150 juta dan NASA mendapat alokasi US$ 25,2 miliar, yang merupakan terbesar dalam satu dasawarsa terakhir.
+    </TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-9</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>'Robot AI' Ancam Hapus 6,17 Juta Pekerjaan di Sektor Keuangan</TITLE>
+    <TEXT>
+    Jakarta, CNBC Indonesia - Perkembangan artificial intelligence (AS) dan machine learning untuk membentuk kembali pekerjaan dan cara kerja di sektor keuangan bisa mendisrupsi tidak hanya pekerjaan rutin tetapi juga mengancam beberapa pekerjaan bergaji tinggi. Peringatan itu disuarakan oleh Marcos Lopez de Prado, profesor Universitas Cornell, ketika ia bersaksi di depan House Committe of Financial Services Amerika Serikat (AS) pada rapat dengar pendapatan tentang dampak artificial intelligence di pasar modal. Marcos Lopez mengatakan ketika perusahaan teknologi mulai mendistribusikan data dan melakukan pekerjaan crowdsourcing melalui data analysts, setiap tantangan investasi dapat diselesaikan oleh sepasukan data scientists tanpa latar belakang keuangan. 
+    Dengan demikian pekerjaan dengan bayaran tertinggi di bidang keuangan terancam kehadiran robot AI. Manajer aset akan dapat melakukan crowdsource seluruh fungsi penelitian mereka, sementara perusahaan asuransi dapat melakukan hal yang sama dengan model aktuaria mereka.
+    Senin (9/12/2019). Rebecca Fender, Senior Director of the Future of Finance di CFA Institute, sebuah asosiasi profesional investasi, mengatakan dalam rapat dengar pendapat, sebesar 43 persen anggota dan kandidat CFA mengharapkan perubahan signifikan dalam peran mereka dalam 5-10 tahun ke depan.  Tiga peran "yang paling mungkin hilang" adalah agen penjualan, trader, dan performance analis. Hal ini merupakan hasil survei lebih dari 3.800 responden.
+    Kirsten Wegner, CEO Modern Markets Initiative, mengatakan lebih baik regulator mendorong transformasi menuju otomatisasi, daripada menghambatnya, karena membuka pintu bagi banyak profesional teknologi. "Ada banyak kesempatan kerja yang muncul dalam coding, keamanan siber, penyimpanan dan manajemen data, quantitative reasoning, dan vertikal teknologi lainnya yang diprioritaskan Wall Street," ujarnya. Peluang kerja dapat berasal dari blockchain, e-banking, robo-advising dan cryptocurrency baru.
+    </TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-10</ID>
+    <NIM>17515020111067</NIM>
+    <TITLEKemenhub Bicara Tarif Ojol Maxim yang Resahkan Grab-Gojek></TITLEKemenhub>
+    <TEXT>
+    Jakarta, CNBC Indonesia - Kementerian Perhubungan (Kemenhub) menjelaskan soal kasus demo driver Grab dan Gojek kepada ojek online Rusia Maxim yang menerapkan tarif lebih murah dari yang ditetapkan pemerintah. Konflik ini terjadi pada Januari 2020 lalu. Direktur Angkutan Jalan Direktorat Jenderal Perhubungan Darat Kemenhub Ahmad Yani mengungkapkan awal terjadi keributan di Solo dan Makassar antara driver ojol dengan Maxim karena tarif perusahaan Rusia ini lebih rendah dan berdampak pada aplikasi lain.
+    Ahmad Yani menambahkan selain meminta mengikuti aturan yang ada, Kemenhub juga menyurati Kementerian Komunikasi dan Informatika (Kominfo) untuk mengambil tindakan sesuai aturan yang berlaku. Bentuknya berupa penghentian sementara aplikasi (suspensi) bila tidak segera menyesuaikan.
+    Kami memang menghindari konflik-konflik ini makanya kami segera memanggil mereka untuk menyesuaikan [tarif]," jelas Ahmad Yani. Kasus ini akhirnya selesai setelah Maxim menyesuaikan tarif dengan aturan yang berlaku. Penyesuaian tarif ini dilakukan Maxim pada 22 Januari 2020.
+    "Tarif baru Maxim ini telah berlaku di seluruh wilayah operasi Maxim yang tersebar di 24 daerah di Indonesia. Dengan langkah tersebut, Maxim telah mentaati peraturan yang berlaku di Indonesia," ujar Juru Bicara Maxim Havara Evidanika ZF dalam keterangan resmi.
+</TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-11</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>Klarifikasi Diksi 'Sampah', Mahfud MD Sebut Pernyataannya Disalahtafsirkan</TITLE>
+    <TEXT>
+    Suara.com - Menteri Koordinator Politik, Hukum dan Keamanan (Menko Polhukam) Mahfud MD sempat menyebut data tahanan politik yang diberikan oleh aktivis HAM Veronica Koman kepada Presiden Joko Widodo (Jokowi) sebagai sampah. Lantaran mendapatkan kritikan dari sejumlah pihak, Mahfud pun menyampaikan klarifikasi terkait pernyataan tersebut.
+    Mahfud mengungkapkan, pernyataannya tersebut disalahtafsirkan oleh sejumlah orang. Diksi 'sampah' yang dimaksud ialah untuk menjawab soal keterangan Veronica yang mengatakan telah menyerahkan data tersebut kepada Presiden Jokowi di Australia.
+    "Karena Veronica itu waktu di Australia tidak bertemu presiden, tidak menyerahkan surat kepada Presiden. Tanya saja sama dia kalau ada yang infokan itu sampah," kata Mahfud di Kantor Kemenko Polhukam, Jalan Medan Merdeka Barat, Jakarta Pusat, Kamis (13/2/2020).
+    Mahfud juga meluruskan kalau diksi sampah yang digunakan itu bukan untuk data tapol Papua yang diserahkan. Kata ia, setiap surat-surat yang diberikan oleh masyarakat kepada Jokowi itu pasti akan ditampung untuk dibaca meskipun bukan dalam hari yang sama.
+    "Yang sampah itu adalah informasi bahwa Veronica Koman serahkan surat kepada presiden itu sampah, ndak ada. Saya ada di situ, enggak ada Veronica Koman," ujarnya.
+    Ia tidak menampik, kemungkinan Veronica tidak menyerahkan secara langsung melainkan dititipkan kepada orang lain.
+    "Kalau soal dia ada orang nitip surat yang mungkin titipan dia, itu bisa saja iya tapi kita kan enggak peduli, semua surat kan ditampung."
+    Lantaran terlalu banyaknya surat-surat pemberian masyarakat kepada Jokowi, maka terkait data tapol Papua yang diserahkan itu pun belum diverifikasi oleh pihak Istana.
+    "Banyak map masuk kita tampung semua, kan ini baru pulang dari Australia. Masa mau dibaca di Australia kan tumpuk dulu, nanti diproses satu-satu lalu dibaca."
+    Sebelumnya, Mahfud MD menyebut dokumen data tahanan politik Papua yang diberikan aktivis Papua Veronica Koman adalah sampah. Dokumen itu diberikan ke Presiden Joko Widodo atau Jokowi saat melawat ke Australia.
+    Mahfud menyebut jika dokumen itu tidak penting. Mahfud di Istana Kepresidenan, Bogor, Jawa Barat, Selasa, mengaku tidak mengetahui apakah dokumen tersebut benar-benar sudah diserahkan langsung kepada Kepala Negara.
+    "Saya tahu surat seperti itu banyak. Orang berebutan salaman, kagum kepada Presiden, ada yang kasih map, amplop, surat gitu, jadi tidak ada urusan Koman atau bukan. Kita tidak tahu itu Koman apa bukan," kata dia.
+    "Itu anulah, kalau memang ada ya sampah saja lah," tambah Mahfud.
+    Pernyataan Mahfud lantas dikritik oleh banyak pihak termasuk dari Veronicanya sendiri. Meskipun Veronica sudah biasa mendengar pernyataan Mahfud yang kerap menyakiti hati, namun kali ini menurutnya makin melukai hati orang Papua.
+    Veronica tidak aneh ketika mendengar pernyataan Mahfud tersebut karena sebelumnya ia pernah mengatakan kalau tidak ada pelanggaran HAM apapun di era pemerintahan Presiden Joko Widodo atau Jokowi. Namun untuk kali ini, Veronica merasa pernyataan Mahfud justru makin menyayat hati orang Papua.
+    "Namun tetap sangat disayangkan, mengingat ini akan memperdalam luka orang Papua. Boro-boro dapat keadilan, untuk diakui adanya pelanggaran saja pun tidak," kata Veronica saat dihubungi pada Rabu (12/2/2020).
+    "Pernyataan ini memberikan sinyal makin suramnya penegakan HAM di era saat ini," katanya.
+    </TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-12</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>Perlu Ditambah, Fasilitas Parkir Kendaraan Penumpang MRT</TITLE>
+    <TEXT>
+    REPUBLIKA.CO.ID, JAKARTA --  PT MRT Jakarta menilai banyak hal yang harus dilakukan untuk mendorong agar lebih banyak lagi warga Jakarta yang menggunakan transportasi massal. Salah satunya memperbanyak lokasi parkir umum atau park dan ride.
+    Direktur Utama PT MRT Jakarta, William Sabandar, Kamis (13/2) mengatakan, untuk menyelesaikan masalah transportasi Jakarta tidak bisa hanya satu pihak saja, seperti MRT yang baru memiliki panjang trek 16 kilometer. "Tidak akan bisa, tapi sudah mulai dirasakan dimana tingkat kemacetan turun dari peringkat empat ke-10," katanya.
+    Menurutnya yang bisa kita lakukan mempercepat pembangunan jalur MRT ke Utara dan yang terbentang Timur ke Barat, peningkatan integrasi serta perbanyak lahan parkir. Lokasi parkir yang harus diperbanyak adalah yang terletak di luar pusat kota dengan memungkinkan integrasi dengan moda transportasi lainnya dengan MRT.
+    Seiring dengan itu, di waktu tertentu pemerintah akan menaikkan tarif parkir di dalam kota, sehingga di kawasan-kawasan luar pusat kota dikembangkan sebagai tempat parkir dengan maksud agar masyarakat berpindah ke transportasi publik.
+    Saat ini, fasilitas park and ride yang terakses ke Stasiun MRT yang belum yang dikelola swasta ada tiga. Yakni di kawasan Stasiun Lebak Bulus, Stasiun Fatmawati dan di antara kedua stasiun itu (south quarter), dengan tarif rata-rata Rp 5.000 untuk mobil, Rp2.000 untuk motor dan Rp1.000 untuk sepeda.
+    Untuk kapasitas, park and ride Lebak Bulus yang terletak di atas lahan Pemda dengan jarak sekitar 250 meter dari stasiun, mampu menampung 200 motor dan 150 unit mobil. Sementara park and ride South Quarter yang berjarak 900 meter dari Stasiun Fatmawati dan 2,4 kilometer dari Stasiun Lebak bulus ini, berkapasitas 60 mobil dan 30 motor dengan akses ke stasiun menggunakan bus pengumpan. 
+    Adapun park and ride Fatmawati, mampu menampung 100 unit mobil dan belum ada ruang khusus untuk sepeda motor karena belum banyak pengguna sepeda motor yang menggunakan fasilitas itu.
+    "Namun jumlah ini  terbatas, jadi perlu ada percepatan dan memperbanyak, saat ini sedang dicari area yang bisa dibuat, tidak harus memakai lahan pemerintah yang ada, kita juga mendorong teman-teman swasta yang punya bangunan dan lahan kosong, kami siap kerjasama untuk lahan itu dijadikan park and ride," kata William.
+    Mulai Maret 2020, fase dua sepanjang 12 kilometer akan dibangun. Ada sekitar 10 stasiun yang dibangun di jalur Bundaran HI ke Ancol ini, yaitu Thamrin, Monas, Harmoni, Sawah Besar, Mangga Besar, Glodok, Kota Tua, Mangga Dua, Ancol dan Depo Ancol dengan perkiraan biaya sekitar Rp 32 triliun lewat pendanaan dari pinjaman pemerintah Jepang.
+    </TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-13</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>Pimpinan KPK: Kami Tak Punya Target untuk Memuaskan Dahaga Survey</TITLE>
+    <TEXT>
+    JAKARTA, KOMPAS.com - Wakil Ketua Komisi Pemberantasan Korupsi (KPK) Nawawi Pomolango menyatakan, KPK tidak bekerja untuk memuaskan lembaga-lembaga survey.
+    Hal ini disampaikan Nawawi menanggapi hasil survei Alvara Research Center yang menyebut tingkat kepuasan publik terhadap KPK turun pada 100 hari pertama pemerintahan Jokowi-Ma'ruf Amin.
+    "KPK memang tak punya target-targetan untuk 'memuaskan' dahaga survey, terlebih dikaitkan dengan masa kerja 100 kabinet pemerintahan, jadi enggak nyambung dengan masa kerja dengan kepemimpinan KPK yang baru yang belum dua bulan," kata Nawawi kepada Kompas.com, Kamis (13/2/2020).
+    Nawawi pun mengungkit survei Alvara yang menyatakan menurunnya kepuasan publik merupakan imbas revisi UU KPK.
+    Menurut Nawawi, hal itu justru menunjukkan keberpihakan lembaga survei tersebut terhadap kelompok yang menolak revisi UU KPK.
+    "Ini kan argumen keberpihakan pada kelompok yang menolak revisi, kalau sudah frame yang demikian yang dijadikan hasil survey tentu saja kami tidak dalam posisi mengomentarinya," ujar Nawawi.
+    Nawawi pun menegaskan KPK akan terus bekerja memberantas korupsi terlepas dari survei-survei yang menunjukkan kepuasan publik terhadap KPK.
+    "Yang pasti, kerja pemberantasan korupsi bukan hanya bekerja sambil menimbang-nimbang apakah ini memuaskan atau tidak," kata Nawawi.
+    Lembaga Survei Alvara Research Center merilis data kepuasan publik terhadap kinerja lembaga negara di 100 hari kerja pemerintahan Presiden Joko Widodo.
+    Hasilnya, kepuasan publik terhadap KPK menurun. Ini terjadi setelah Undang-undang KPK direvisi.
+    Berdasarkan survei Alvara pada Agustus 2019, KPK berada di posisi kedua tertinggi, sedangkan pada Februari 2020 mereka berada di peringkat kelima.
+    "Yang menarik adalah bila dibandingkan dengan survei Agustus 2019 terdapat penurunan yang cukup tajam tingkat kepuasan publik terhadap KPK dan KPU. KPK turun dari peringkat 2 ke peringkat 5, Komisi Pemilihan Umum (KPU) turun dari peringkat 7 ke peringkat 8," papar CEO Alvara Research Center Hasanuddin Ali melalui keterangan tertulis, Rabu (12/2/2020).
+    </TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-14</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>Upaya KPK Cari Nurhadi dan Menantunya: DPO hingga Minta Bantuan Masyarakat</TITLE>
+    <TEXT>
+    JAKARTA, KOMPAS.com - Eks Sekretaris Mahkamah Agung Nurhadi akhirnya resmi menjadi buronan KPK setelah masuk dalam Daftar Pencarian Orang bersama menantunya, Rezky Herbiyono, dan Direktur PT Multicon Indrajaya Terminal Hiendra Soenjoto.
+    Nurhadi bersama Rezky dan Hiendra merupakan tersangka kasus dugaan suap dan gratifikasi terkait penanganan perkara di Mahkamah Agung tahun 2015-2016.
+    "KPK telah menerbitkan Daftar Pencarian Orang, DPO, kepada para tiga tersangka ini yaitu Pak Nurhadi kemudian Rezky Herbiyono dan Hiendra Soenjoto," kata Plt Juru Bicara KPK Ali Fikri, Kamis kemarin.
+    Ali mengatakan, KPK juga telah bersurat ke Bareskrim Polri untuk meminta bantuan dalam mencari dan menangkap Nurhadi cs.
+    Nurhadi cs masuk dalam DPO setelah dua kali mangkir saat dipanggil sebagai tersangka dan tiga kali mangkir saat dipanggil sebagai saksi dalam kasus ini.
+    Saat ditanya apakah KPK tidak mengetahui keberadaan Nurhadi cs hingga harus menerbitkan DPO, Ali tidak menjawab dengan lugas.
+    "Mengenai posisi, tentunya KPK terus mencarinya ya. Adapun posisinya ada dimana dan seterusnya kami tentu tidak bisa memberitahu posisinya kepada masyarakat," kata Ali.
+    Nurhadi cs pun sebelumnya telah dicegah berpergian ke luar negeri selama enam bulan ke depan terhitung sejak 12 Desember 2019 lalu.
+    Saat dihubungi Kamis malam kemarin, Kepala Subbagian Humas Direktorat Jenderal Imigrasi Ahmad Nursaleh mengaku belum bisa memastikan keberadaan Nurhadi saat ini.
+    KPK pun mengharapkan bantuan masyarakat yang mengetahui keberadaan Nurhadi dapat melapor ke KPK dengan menghubungi call center 198.
+    Minta saksi kooperatif
+    Di samping itu, Ali meminta pihak-pihak yang dipanggil sebagai saksi dalam penyidikan kasus ini untuk bersikap kooperatif dengan memenuhi panggilan penyidik untuk diperiksa.
+    Hal ini disampaikan Ali menyusul mangkirnya anak Nurhadi, Rizqi Aulia Rahmi, yang dipanggil penyidik pada Kamis kemarin.
+    Selain Rizqi, istri Nurhadi, Tin Zuraida, dan istri Hiendra, Lusi Indriati juga mangkir ketima dipanggil penyidik pada Selasa (11/2/2020) lalu.
+    Ali mengingatkan bahwa KPK tidak segan mengenakan pasal "obstruction of justice" pada pihak yang menghalang-halangi proses penyidikan kasus ini.
+    "KPK akan bertindak tegas pula dalam menangani perkara ini terutama pada pihak-pihak yang tidak kooperatif ataupun kemudian ada pihak-pihak yang mencoba untuk menghalangi dalam penanganan perkara ini," kata Ali.
+    Ali mengatakan, penyidik akan menjadwal ulang pemeriksaan terhadap Rizqi, Tin, dan Lusi.
+    "Langkah berikutnya tentu kami akan mempertimbangakan, sekali lagi kami mengimbau kepada siapapun yang kami panggil sebagai saksi untuk perkara ini tentunya untuk kooperatif," kata Ali.
+    Dalam kasus ini, KPK telah menetapkan tiga orang tersangka yakni eks Sekretaris MA Nurhadi; menantu Nurhadi, Rezky Herbiyono; dan Direktur PT Multicon Indrajaya Terminal Hiendra Soenjoto.
+    Nurhadi melalui Rezky diduga telah menerima suap dan gratifikasi dengan nilai mencapai Rp 46 miliar.
+    Menurut KPK, ada tiga perkara yang menjadi sumber suap dan gratifikasi yang diterima Nurhadi yakni perkara perdata PT MIT vs PT Kawasan Berikat Nusantara, sengketa saham di PT MIT, dan gratifikasi terkait dengan sejumlah perkara di pengadilan.
+    Dalam perkara PT MIT vs PT KBN, Rezky selaku menantu Nurhadi diduga menerima sembilan lembar cek atas nama PT MIT dari Direkut PT MIT Hiendra Soenjoto untuk mengurus perkara itu.
+    </TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-15</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>Inilah Daftar 41 Perwira Tinggi TNI yang Naik Pangkat</TITLE>
+    <TEXT>
+    TEMPO.CO, Jakarta - Sebanyak 41 Perwira Tinggi TNI menerima kenaikan pangkat satu tingkat.
+    Kenaikan pangkat ini berdasarkan Surat Perintah Panglima TNI Nomor Sprin/397/II/2020, tanggal 13 Februari 2020.
+    "Panglima TNI, Marsekal TNI Hadi Tjahjanto menerima Laporan Korps Kenaikan Pangkat 41 Perwira Tinggi (Pati) TNI terdiri dari 17 Pati TNI AD, 13 Pati TNI AL dan 11 Pati TNI AU, bertempat di Hanggar Skadron 17 Lanud Halim Perdanakusuma, Jakarta Timur," kata Kabidpenum Pusat Penerangan TNI Kolonel Sus Taibur Rahman dalam keterangan tertulisnya pada Kamis, 13 Januari 2020.
+    Adapun 41 Pati TNI itu terdiri:
+    17 Pati TNI ADMayor Jenderal TNI Zulfardi Junin(Staf Ahli Bidang Ideologi dan Politik BIN), Mayjen TNI Kasim Genawi(Dankodiklat TNI), Mayjen TNI Sugeng(Staf Ahli Bidang Sosial Budaya Setjen Wantannas), Mayjen TNI Dedi Sambowo (Pa Sahli Tk. III Bid. Sosbudkum HAM dan Narkoba Panglima TNI, Mayjen TNI Benny Octavian(Pa Sahli Tk. III Bid, Banusia Panglima TNI), Mayjen TNI Nugroho Sulistyo Budi(Staf Ahli Bidang Politik Kementerian), Brigadir Jenderal TNI Arifin(Pa Sahli Tk. II Lingkungan Hidup Sahli Bid. Wassus dan LH Panglima TNI), Brigjen TNI Widhayat(Pa Sahli Tk.II Intekmil Sahli Bid. Intekmil dan Siber Panglima TNI), Brigjen Untung Purwadi(Dirjakstra Ditjen Strahan Kemhan), Brigjen TNI Achmad Taufiq(Dirdalprogar Ditjen Renhan Kemhan), Brigjen TNI Alfi Sahri Lubis(Direktur Sumatera dan Kalimantan pada Deputi Bidang Intelijen Dalam Negeri BIN), Brigjen TNI Rui F.G.P. Duarte(Karo TU dan Protokol Setjen Kemhan), Brigjen TNI Hartono(Pa Sahli Tk. II Wassus Sahli Bid. Wassus dan LH Panglima TNI), Brigjen TNI Ferry Supriyanto(Kapusdalops TNI), Brigjen TNI Andi Darmawangsa(Pa Sahli Tk. II Bid Komsos Panglima TNI), Brigjen TNI Yos Trioso(Ir IV Itjen Kemhan), Brigjen TNI Amino Setya Budi(Kabinda Riau BIN)
+    13 Pati TNI ALLetnan Jenderal TNI (Mar) Bambang Suswantono(Danjen Akademi TNI), Laksamana Muda TNI Dani Achdani (Deputi Bidang Pengkajian dan Penginderaan Setjen Wantannas), Laksda TNI Fery Sidjaja(Pa Sahli Tk. III Bid. Wassus dan LH Panglima TNI), Mayjen TNI (Mar) Joko Supriyanto(Kabainstrahan Kemhan), Mayjen TNI (Mar) Yuniar Ludfi (Aspotmar Kasal), Mayjen TNI (Mar) Bambang Suryo Aji Deputi Bidang Operasi Pencarian dan Pertolongan, dan Kesiapsiagaan BNPP(Basarnas), Laksda TNI B. Ken Tri Basuki, M.Si (Han)., CHRMP (Staf Ahli Bidang Pertahanan dan Keamanan Setjen Wantannas), Laksamana Pertama TNI Purwanto(Wakil Dekan Fakultas Strategi Pertahanan Unhan), Laksma TNI Andi Abdul Aziz(Kapusinfomar TNI), Laksma TNI Haris Bima Bayuseto(Danlantamal XIII/Trk Koarmada II, Brigjen TNI (Mar) Wurjanto. M.Han (Danpasmar-1 Kormar), Laksma TNI Joko Sulistyanto(Direktur Perangkat Hukum Internasional pada Deputi Bidang Kerjasama Internasional BNPT), Laksma TNI Supendi,(Bandep Urusan Informasi dan Pengelohan Data Setjen Wantannas)
+    11 Pati TNI AUMarsekal Muda TNI R. Ismet Ismaya Saleh(Pa Sahli Tk. III Bid. Hubint Panglima TNI), Marsda TNI I Nyoman Trisantosa(Aspers Kasau), Marsekal Pertama TNI Nandang Sukarna(Pa Sahli Tk. II Bid Jahpers Panglima TNI), Marsma TNI Benecditus Benny K.(Karo Perencanaan Organisasi dan Keuangan Setjen Wantannas), Marsma TNI Umar Fathurrohman(Direvbang Sesko TNI), Marsma TNI Dirk Poltje Lengkey(Dirdik Kodiklat TNI), Marsma TNI Agus M. Bahron(Kapusinfolahta TNI), Marsma TNI Amirullah HZ., Kapusdatin BNPP(Basarnas), Marsma TNI Agustinus Prapto N., (Kadismatau), Marsma TNI Agus Sudarmanto Direktur Sarana dan Prasarana BNPP (Basarnas), Marsma TNI Aminto Senisuka(Kadisminpersau).
+    </TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-16</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>Dewas KPK Diminta Proaktif Kawal Etik</TITLE>
+    <TEXT>
+    Jakarta: Dewan Pengawas (Dewas) Komisi Pemberantasan Korupsi (KPK) diminta lebih aktif mengawasi kinerja pimpinan Lembaga Antirasuah tesebut. Dewas memiliki kewenangan untuk menilai kinerja pimpinan dan mengimplementasi kode etik agar lembaga tersebut tak melenceng.
+    "Karena sekarang belum disusun kode etik yang baru, maka implementasi kode etik yg lama itu mereka bisa dilaksanakan," kata eks Komisioner KPK Laode M Syarif, Tebet, Jakarta Selatan, Kamis, 13 Februari 2020.
+    Dia mengungkap Dewas KPK telah bekerja sebaik mungkin terkait kewenangan persetujuan penyadapan, penggeledahan, dan pencekalan. Laode dapat menyimpulkan hal ini berdasarkan komunikasi terbatas dengan dewas.
+    Terkait dengan polemik izin dan lamanya prosedur penyadapan atau penggeledahan, Laode menilai hal ini berpulang ke inisiatif komisioner. Jika tak pernah ada penyadapan, berarti memang tidak ada permintaan izin ke dewas.
+    "Yang saya dengar dari RDP beberapa minggu yang lalu di Komisi III, yang disampaikan pimpinan KPK waktu itu tidak ada penyadapan. Berarti kalau tidak ada penyadapan, tidak ada permintaan izin ke dewan pengawas," ujar Laode.
+    Awal Februari 2020, Ketua KPK Firli Bahuri dilaporkan Wadah Pegawai (WP) KPK ke dewan pengawas (dewas). Firli dan pimpinan KPK lain dinilai melanggar aturan terkait pengembalian penyidik Rossa Purbo Bekti ke Mabes Polri.  
+    "Pengembalian Kompol (Komisaris Polisi) Rossa Purbo Bekti menimbulkan banyak kejanggalan, mengingat tidak ada permintaan dari Kompol Rossa untuk kembali ke kepolisian," kata Ketua WP KPK, Yudi Purnomo Harahap, di Gedung Merah Putih, Jakarta, Jumat, 7 Februari 2020. 
+    Pengembalian Rossa ke instansi asal menerut WP KPK tidak sesuai mekanisme. Masa tugas Rossa Purbo juga masih panjang hingga Rabu, 23 September 2020. Polri pun membatalkan permohonan penarikan melalui surat resmi Jumat, 21 Januari 2020, dan Sabtu, 29 Januari 2020.
+    Anggota Dewan Pengawas, Albertina Ho, mengatakan tengah mempelajari informasi soal kasus ini untuk menentukan langkah selanjutnya. Hal ini sejalan dengan ketentuan Undang-Undang (UU) Nomor 19 Tahun 2019 tentang Perubahan Kedua Atas UU Nomor 30 Tahun 2002 tentang KPK. 
+    "Pada prinsipnya, Dewas akan menjalankan tugas pengawasan dan evaluasi kinerja pimpinan dan pegawai sebagaimana diamanatkan," kata Albertina di Jakarta, Rabu, 5 Februari 2020.
+    </TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-17</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>Menag: Terowongan Istiqlal-Katredal Simbol Kerukunan Umat</TITLE>
+    <TEXT>
+    REPUBLIKA.CO.ID, SURABAYA -- Menteri Agama, Fachrul Razi menyambut baik rencana pembangunan terowongan yang menghubungkan Masjid Istiqlal dengan Gereja Katedral yang diberi nama "Terowongan Silahurahmi". Fachrul menilai pembangunan Terowongan Silaturahmi sangat bagus dan bisa menjadi lambang kerukunan umat beragama.
+    "Lambang kerukunan umat beragama. Secara praktisnya memang mereka (Katedral) bisa kalau ada kegiatan terlalu banyak bisa di Istiqlal atau sebaliknya," ujar Fachrul saat ditemui di Masjid Al-akbar, Surabaya, Kamis (13/2).
+    Fachrul memastikan, pembangunan terowongan ini tidak akan menimbulkan kecemburuan agama lain. Pemerintah memperhatikan semua agama.
+    "Oh nanti ada tahapnya, gak bisa langsung (pembangunannya). Kebetulan itu kan berdampingan. Pasti semua (agama) diperhatikan, kami juga turun tangan langsung semua," ujar Fachrul.
+    Sebelumnya Presiden Joko Widodo mengaku mendapatkan usulan untuk membangun terowongan bawah tanah sebagai penghubung dari Masjid Istiqlal ke Gereja Katedral. Mantan Gubernur DKI Jakarta itu pun menyetujuinya. Jokowi berharap, terowongan tersebut dapat menjadi terowongan silaturahmi kedua tempat ibadah itu.
+    "Tidak kelihatan berseberangan, tapi silaturahmi. Terowongan bawah tanah. Sehingga tidak nyebrang, sekarang pakai terowongan bawah, terowongan silaturahmi," kata Jokowi.
+    </TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-18</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>Kejagung: Tersangka Baru Kasus Jiwasraya Tergantung Bukti</TITLE>
+    <TEXT>
+    VIVAnews – Pelaksana Harian Jaksa Agung Muda Tindak Pidana Khusus (Jampidsus), Ali Mukartono, membuka kemungkinan ada tersangka baru dalam kasus Jiwasraya. Menurutnya, hal itu bergantung pada hasil pemeriksaan dan alat bukti.
+    "Tergantung hasil pemeriksaan dan hasil pengumpulan alat bukti ini menuju siapa," kata Ali di Kompleks Parlemen, Jakarta, Kamis, 13 Februari 2020.
+    Dia menjelaskan, dalam kasus ini, Panitia Kerja (Panja) yang dibentuk DPR bisa melibatkan hingga pihak perbankan. Menurut dia, semua pihak yang diduga terlibat bisa diminta pertanggungjawaban.
+    "Kan sudah kita minta komitmen, siapa pun yang terpenuhi unsur-unsur tindak pidananya, kita minta pertanggungjawaban. Jadi tidak terbatas pada si A dan si B saja. Bisa siapa saja. Pokoknya terpenuhi bukti, ya kita lanjut," jelas Ali.
+    Menurutnya, pihak perbankan bisa saja menjadi tersangka. Tapi, dipastikan dengan melihat alat bukti. "Kemarin sudah ditetapkan satu ya, dari 5 sudah nambah 1," kata Ali.
+    Ali mengatakan kasus ini masih belum selesai dan terus berjalan. Nanti secara keseluruhan akan dilaporkan pada persidangan.
+    Kemudian, ia menceritakan dalam rapat bersama Panja Jiwasraya Komisi III DPR hanya menjelaskan langkah yang dilakukan dalam kasus Jiwasraya ini.
+    "Kita laporkan bahwa jumlah saksi sudah diperiksa sekian, ahli yang sudah sekian, penelusuran aset sudah ketemu apa saja, dan penetapan tersangka sudah berapa dan sebagainya. Sebatas itu," tutur Ali.
+    Dalam skandal PT Asuransi Jiwasraya (Persero), Kejagung sudah menetapkan enam tersangka. Terakhir, status tersangka baru ditetapkan untuk Direktur PT Maxima Integra, Joko Hartono Tirto.
+    Sebelumnya, ada lima tersangka yang ditetapkan Kejagung seperti Dirut PT Hanson International Tbk Benny Tjokrosaputro, Komisaris Utama PT Trada Alam Minera Tbk Heru Hidayat, Direktur Keuangan Jiwasraya periode Januari 2013-2018 Hary Prasetyo, Direktur Utama Jiwasraya periode 2008-2018 Hendrisman Rahim, mantan Kepala Divisi Investasi dan Keuangan Jiwasraya, Syahmirwan. (ase)
+    </TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-19</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>Wapres Ajak Negara Lain Tolak Proposal Trump Soal Palestina</TITLE>
+    <TEXT>
+    REPUBLIKA.CO.ID, JAKARTA -- Wakil Presiden Ma'ruf mengajak negara lain untuk bersama-sama menentang proposal Presiden Amerika Serikat Donald Trump tentang Palestina yang berjudul Deal of The Century. Ma'ruf menegaskan sikap Indonesia menentang rencana perdamaian Timur Tengah versi Donald Trump yang tidak adil bagi rakyat Palestina.
+    Namun demikian, Ma'ruf menyadari suara Indonesia saja tidaklah cukup untuk menentang ide proposal tersebut.
+    "Tapi masalahnya, Indonesia tentu tak mungkin sendirian, tentu bagaimana Indonesia mengajak bersama-sama untuk menghadapi proposal itu dengan negara-negara lain. Itu yang jadi masalah sekarang," ujar Ma'ruf usai bertemu dengan Menteri Luar Negeri Retno L Marsudi di Kantor Wapres, Jakarta, Kamis (13/2).
+    Karena itu, dalam laporan Menlu kepada Wapres, Ma'ruf mengungkap Indonesia akan tetap pada sikapnya untuk membela Palestina. "Sesuai prinsip yang dianut kita, kita membela Palestina," ujar Ma'ruf.
+    Menurutnya, Pemerintah Indonesia akan terus melakukan diplomasi mengajak negara lain bersuara sama. "Negara lain seperti apa, nah ini dalam proses perundingan di PBB, beliau melapor begitu," ujarnya.
+    </TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-20</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>KPK Dikhawatirkan Cuma Jadi Warisan Budaya</TITLE>
+    <TEXT>
+    Jakarta: Eks Komisoner Komisi Pemberantasan Korupsi (KPK) Laode M Syarif khawatir Lembaga Antirasuah tak lagi bisa diandalkan. Kepuasan publik terhadap kinerja KPK menurun. 
+    "Kalau tren ini turun terus maka KPK akan jadi bangunan seperti Borobudur. Bangunannya cakap dilihat tapi sudah jarang dipakai beribadah. Ibarat cultural heritage, enak dipandang tapi kerjanya kurang," kata Laode di Jakarta, Kamis, 13 Februari 2020. 
+    Survei yang dimaksud Laode yakni survei Alvara Research Center. Survei yang menilai kepuasan publik terhadap kinerja lembaga negara di 100 hari kerja pemerintahan Presiden Joko Widodo periode 2019-2024 itu menempatkan KPK di posisi lima. 
+    Survei menunjukkan penurunan kepercayaan publik setelah berlakunya Undang-Undang Nomor 19 Tahun 2019 tentang KPK. Lembaga Antirasuah berada di posisi kedua tertinggi pada survei Alvara, Agustus 2019. 
+    Laode menyebut KPK pernah jadi harapan besar di garis depan pemberantasan korupsi. Itu lantaran KPK dianggap the most effectif anti-corruption agency in the world.
+    "Sekarang itu tidak terjadi lagi. Sudah diragukan efektivitasnya," kata dia.
+    Laode berharap KPK tetap menjadi nomor satu dalam pemberantasan korupsi. Dia berharap undang-undang baru KPK tetap membuat lembaga 'bergigi' tajam. 
+    "Jadi sebenarnya hukum yang jelek itu kalau aparatnya baik, kalau officialnya tulus, ikhlas, Insyaallah akan bagus," kata Laode.
+    </TEXT>
+</DOC>
+<DOC>
+    <ID>neo-21</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>40 Ribu Wisatawan Batal ke Bali</TITLE>
+    <TEXT>
+    Jakarta: Viruskorona berdampak langsung ke sektor pariwisata di Indonesia. Ketua Bali Tourism Board, Agung Partha, melaporkan pembatalan 40 ribu kunjungan wisatawan dan ditaksir menyebabkan kerugian hingga Rp1 triliun lebih. 
+    "Dalam situasi ini, pelaku pariwisata jangan banting harga untuk menjaga kualitas pariwisata Bali," kata Agung seusai seminar di Graha Tirta Gangga, Kantor Perwakilan BI Bali, Kamis, 14 Februari 2020.
+    Wakil Gubernur Bali Tjokorda Oka Artha Ardhana menyebut, dampak virus korona terhadap sektor pariwisata merupakan pukulan telak bagi Bali. Karena di sana, sektor pariwisata menjadi lokomotif ekonomi. Sebanyak 70 persen produk domestik regional bruto disumbang oleh sektor tersebut.
+    "Gangguan sedikit saja berdampak pada perekonomian Bali," ujar dia.
+    Ketua Umum Perhimpunan Hotel dan Restoran Indonesia (PHRI), Hariyadi Sukamdani sebelumnya menyatakan kerugian akibat banyaknya wisatawan Tiongkok yang membatalkan kunjungan ke Indonesia. Kerugiannya mencapai Rp2,7 triliun. 
+    Di lain pihak, Kepala Dinas Kesehatan Provinsi Bali, Ketut Suarjaya, mengungkapkan pihaknya berhasil melacak seorang turis Tiongkok yang diduga positif korona setelah berlibur di Bali.
+    "Kami yakin Bali masih negatif. Jadi, mungkin setelah sampai di Tiongkok, dia baru terpapar," ungkap Suarjaya.
+    Menteri Pariwisata dan Ekonomi Kreatif, Wishnutama Kusubandio, sebelumnya menakar potensi kerugian di sektor pariwisata akibat virus korona. Indonesia bisa merugi hingga USD2,8 milliar atau Rp38,2 triliun. 
+    “Karena ini kan masih bergerak, kita bisa tahu ruginya berapa kalau korona udah berhenti kalau kita ‘average’ (rata-rata) setahun dari China saja dengan dua juta jumlah wisatawan kan sudah USD2,8 miliar kerugian misalnya,” kata Wishnutama dikutip dari Antara, Rabu, 12 Februari 2020. 
+    Angka tersebut, lanjut dia, hasil pengihitungan kunjungan jumlah wisatawan Tiongkok ke Indonesia selama satu tahun. Sementara dalam setahun, ada dua juta wisatawan dari Tiongkok mengunjungi Indonesia.
+    “Jadi, memang ini mengukurnya tidak sesederhana kalau sudah semua selesai, tapi yang kita tahu Tiongkok wisatawannya dua juta. Artinya kalau terjemahkan ke devisa USD2,8 miliar, tinggal hitung aja nanti berapa lama masa virus berkembang,” katanya.
+    </TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-22</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>Ditanya antara Pilih AS atau China, Begini Jawaban Presiden Jokowi</TITLE>
+    <TEXT>
+    JAKARTA, KOMPAS.com - Presiden Joko Widodo (Jokowi) menyatakan, kepentingan Indonesia nomor satu ketika ditanya apakah memilih AS atau China.
+    Pernyataan itu disampaikan sang presiden dalam wawancara khusus dengan BBC di Bandara Internasional Yogyakarta Baru pada 31 Januari 2020.
+    Dilansir Kamis (13/2/2020), Presiden Jokowi mengatakan bahwa perang dagang antara AS dan China, di tengah maraknya proteksionisme, menyulitkan.
+    Dia menuturkan menyikapi konflik perdagangan itu, Indonesia memilih ekonomi terbuka yang penuh dengan persaingan dan kompetisi.
+    "Jadi kita berharap perang dagang itu segera selesai, dan negara-negara yang senang pada proteksionisme memang harus mulai menjauh dari sana," paparnya.
+    Jokowi kemudian disinggung bagaimana perekonomian Indonesia tergantung kepada Beijing, yang ditunjukkan dengan proyek infrastruktur yang sedang digarap.
+    Ditanya soal itu, mantan Wali Kota Solo dan Gubernur DKI Jakarta tersebut menjawab politik luar negeri Indonesia adalah bebas aktif.
+    Dia menjelaskan bahwa Tanah Air mempunyai hubungan yang baik dengan semua negara, dan mencontohkan dengan Jepang, Arab hingga Erop.
+    "Tidak pernah ada masalah dengan mereka," jelas bapak tiga anak itu. Dia merespons mereka terbuka dengan siapa pun saat ditanya apakah memilih China atau AS.
+    "Yang paling penting buat saya national interest, kepentingan nasional harus nomor satu," tegas presiden berusia 58 tahun tersebut.
+    "Dengan China, kepentingan nasional nomor satu, dengan Jepang kepentingan nasional nomor satu, dengan Amerika kepentingan nasional nomor satu," paparnya.
+    Selain mendahulukan kepentingan negara, dia juga menyebut bahwa hubungan bilateral dengan negara lain harus sama-sama menguntungkan.
+    Lebih lanjut, Jokowi menyatakan bahwa prioritas yang dia tekankan saat ini adalah ekonomi. Namun, bukan berarti dia tidak senang dengan urusan HAM maupun lingkungan.
+    Jokowi menyatakan, pemerintahannya baru memprioritaskan yang berkaitan dengan ekonomi karena menurutnya, rakyat perlu ekonominya sejahtera dan membutuhkan pekerjaan.
+    Dia menuturkan dalam periode kedua pemerintahannya, pihaknya akan fokus pada pembangunan SDM. "Mungkin nanti setelah lingkungan, inovasi, kemudian HAM. Kenapa tidak?"
+    </TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-23</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>Tati Sumirah, Pahlawan Indonesia di Piala Uber 1975 Berpulang</TITLE>
+    <TEXT>
+    Suara.com - Dunia bulutangkis Tanah Air berduka. Salah satu pahlawan penentu kemenangan Indonesia saat pertama kali merebut Piala Uber 1975, Tati Sumirah, meninggal dunia.
+    Almarhumah berpulang pada, Kamis (13/2/2020) pukul 22.30 WIB, setelah sembilan hari dirawat di ICU RSUP Persahabatan, Rawamangun, Jakarta Timur.
+    Tati Sumirah meninggal dunia dalam usia 68 tahun akibat komplikasi gula darah yang tinggi dan penyakit paru-paru.
+    Berita duka ini pertama kali disampaikan Reza Aditya Pratama, keponakan almarhumah yang terus mendampingi sejak pertama kali dirawat di RSUP Persahabatan.
+    "Berita duka, telah meninggal dunia Ibu Tati Sumirah pada hari ini, Kamis, 13 Februari 2020 jam 22.30. Mohon dibukakan pintu maaf segala dosa-dosanya dan semoga arwahnya husnul khatimah," tutur Reza.
+    Sejak masuk rumah sakit, Selasa (4/2/2020), kondisi mantan atlet bulutangkis kelahiran Jakarta, 9 Februari 1952 ini memang kritis. Hingga berpulang, Tati Sumirah dalam kondisi tidak sadarkan diri.
+    Meninggalnya Tati Sumirah turut dirasakan kesedihannya oleh pihak PB Tangkas, selaku klub yang pernah menaungi almarhumah.
+    "Kita merasa sangat kehilangan atas meninggalnya Tati Sumirah. Dia tidak saja pahlawan bagi klub Tangkas, tapi juga untuk bulutangkis Indonesia. Berkat dedikasinya, Indonesia pertama kali bisa merebut Piala Uber tahun 1975," tutur Wakil Ketua PB Tangkas Jakarta Juniarto Suhandinata.
+    Menurut Juniarto, sebagai pebulutangkis, performa Tati Sumirah maju pesat setelah sejak 1966 bergabung ke klub Tangkas Jakarta.
+    Tati dikenal sebagai pribadi yang gigih berlatih, dan selalu ditemani sang Ayah, Sugrisno, setiap kali latihan.
+    Bulutangkis adalah segalanya buat Tati Sumirah. Puncak kariernya diukir sewaktu mempersembahkan Piala Uber ke pangkuan Ibu Pertiwi tahun 1975.
+    Dia menjadi satu-satunya pemain tunggal putri yang mempersembahkan angka kemenangan buat tim putri skuat Garuda.
+    Dalam babak final di Istora Senayan, Jakarta, 6 Juni 1975, Indonesia sukses merebut Piala Uber setelah menang 5-2 atas juara bertahan Jepang.
+    Tati sukses menyumbangkan poin kemenangan dengan menekuk Atsuko Tokuda, 11-5, 11-2.
+    Sementara, rekannya Theresia Widiastuti dikalahkan Hiroe Yuki, 7-11, 1-11 dan Utami Dewi dijegal Noriko Nakayama, 5-11, 3-11.
+    Namun, di empat partai ganda, pemain tuan rumah tampil hebat. Pasangan Regina Masli/Minarni Sudaryanto menggusur Etsuko Takenaka/Machiko Aizawa, 15-6, 6-15, 15-9.
+    Lalu, Imelda Wigoena/Theresia Widiastuti menang atas Hiroe Yuki/Mika Ikeda, 15-4, 15-9.
+    Berikutnya, Regina/Minarni mengatasi perlawanan Hiroe Yuki/Mika Ikeda, 15-8, 15-11, dan Imelda/Theresia menggulingkan Etsuko Takenaka/Machiko Aizawa, 17-14, 15-0.
+    "Semangat juang, dedikasi tanpa pamrih, dan totalitas Tati untuk kejayaan prestasi bulutangkis Indonesia layak menjadi suri teladan dan sumber inspirasi bagi para pemain bulutangkis Indonesia saat ini," tambah Juniarto dalam keterangan tertulis yang diterima Suara.com, Jumat pagi. 
+    Rencananya almarhumah Tati Sumirah akan dimakamkan setelah salat Jumat di TPU Kemiri Utan Kayu, Rawamangun.
+    </TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-24</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>Yeti dan Kontroversinya Saat Jadi Maskot Pariwisata Nepal 2020</TITLE>
+    <TEXT>
+    Yeti, Makhluk mitologis yang menghuni pegunungan Himalaya menjadi ikon pariwisata Nepal pada 2020. Situs web pemerintah setempat meluncurkan Visit Nepal Year 2020 dengan Yeti sebagai maskot resmi kampanye pariwisata.
+    Bentuk Yeti sebagai maskot pariwisata Nepal itu sempat dianggap membingungkan. Media Nepali Times, pada Rabu, 29 Januari 2020, mengabarkan tentang patung Yeti yang terbuat dari serat kaca (fiberglass) di Kathmandu. Menurut laporan Nepali Times, belum banyak yang tahu pajangan patung Yeti setinggi dua meter itu adalah wujud kampanye pariwisata. Patung Yeti itu berdiri di Boudhanath, Kathmandu Durbar Square, Thamel, dan berbagai mal.
+    “Saya pikir itu adalah patung Hanoman atau Mahabir,” kata Deepak Prasad Shrestha dari Panitia Penyelenggara Festival Indra Jatra. “Ketika saya melihat dari dekat, itu seperti Buddha yang tertawa. Baru belakangan saya mengetahui bahwa itu adalah maskot Yeti.”
+    Tak hanya Deepak Prasad yang terkecoh dengan patung Yeti. Sebagian penduduk Nepal dan wisatawan bertanya-tanya ihwal patung yang tiba-tiba berdiri di sejumlah sudut koto. Maskot Yeti, seperti beberapa patung serat kaca bercat lainnya tampak seperti Buddy Bears di Berlin dan Cow Parade di New York. Ini merupakan upaya pemerintah untuk menghadirkan beragam ekspresi artistik ke ruang publik.
+    Penyelenggara Visit Nepal Year 2020 memilih Yeti sebagai maskot karena merupakan simbol yang tepat dari mitologi di Nepal. Patung-patung Yeti yang tersebar di Nepal adalah karya desainer negara itu, Ang Tsherin Sherpa.
+    Pemerintah berencana memasang 108 patung Yeti di berbagai sudut tempat wisata di Nepal. Para seniman boleh membuat kreasi gambar dan bentuk Yeti dan membuatnya menjadi apa saja, misalnya patung, gantungan kunci, hiasan, dan lainnya. “Pendapatan dari penjualan patung-patung diberikan kepada para seniman yang mendedikasikan waktu dan upaya mereka untuk mendukung kampanye pariwisata,” kata Niki Shrestha perwakilan Sekretariat Visit Nepal Year 2020.
+    Penyelenggara Visit Nepal Year 2020 membeli empat patung untuk ditampilkan bergiliran di ruang publik di Kathmandu. Adapun Labim Mall, Bank Dunia, dan Jyoti Group juga telah membeli maskot itu, kemudian memajang di tempat mereka untuk mendukung kampanye pariwisata Nepal.
+    Keberadaan patung Yeti sempat menuai kritik. Musababnya, dua patung Yeti yang ditempatkan di Kathmandu Durbar Square memuat unsur mata ketiga Kumari. “Kumari adalah dewi hidup yang hanya hadir setahun sekali. Kami sangat terkejut melihatnya dilukis pada makhluk yang bahkan tidak ada (mitologis),” kata Deepak Prasad Shrestha.
+    Masyarakat Nepal menganggap penggambaran Kumari di dalam Yeti mencerminkan ketidakpekaan terhadap apa yang dipercaya penduduk dan mitos. Lantaran memicu protes, dua patung itu telah dipindahkan dari Kathmandu Durbar Square.
+    </TEXT>
+</DOC>
+<DOC>
+    <ID>NEO-25</ID>
+    <NIM>175150201111067</NIM>
+    <TITLE>Nilai Pesangon PHK Berkurang di Omnibus Law Cipta Kerja</TITLE>
+    <TEXT>
+    TEMPO.CO, Jakarta - Pemerintah memangkas besaran pesangon yang wajib dibayarkan pengusaha jika melakukan pemutusan hubungan kerja (PHK). Menteri Tenaga Kerja Ida Fauziyah mengatakan ada plus minus dalam perubahan aturan yang ada di draf omnibus law Cipta Kerja ini.
+    "Jumlah pesangon berkurang, tapi ada cash benefit yang diperoleh mereka yang di-PHK," kata Ida saat ditemui di Kompleks Parlemen, Senayan, Jakarta, Rabu, 12 Februari 2020.
+    Ida mengatakan perubahan ini dibuat lantaran aturan pesangon yang ada dalam aturan pesangon yang ada dalam Undang-undang Nomor 13 Tahun 2003 tentang Ketenagakerjaan dinilai kurang implementatif. Menurut dia, banyak pengusaha selama ini tak mampu membayarkan pesangon sesuai besaran yang telah diatur UU tersebut.
+    "Kami ingin gimana UU itu bisa implementatif. Kalau hitung-hitung prinsip pemberian pesangon, upah, itu kan (bagaimana) pengusahanya mampu, buruhnya cukup," ujar politikus Partai Kebangkitan Bangsa ini.
+    Ida tak merinci berapa besaran pesangon yang diatur dalam RUU Cipta Kerja itu. Meski pesangon dipotong, Ida mengatakan pemerintah menyusun skema baru untuk pekerja yang di-PHK.
+    Ada tiga program yang digagas pemerintah, yakni pemberian uang saku sebesar enam bulan gaji, pendidikan vokasi, dan akses penempatan (placement) untuk mendapatkan pekerjaan baru.
+    Ada pula sweetener untuk orang yang baru bekerja. Besaran sweetener ini bisa mencapai lima kali gaji. "Sweetener ada formulanya. Itu menjadi bagian dari kompensasi PHK, tapi diberikan sebagai penghargaan," ujar Ida.
+    Menurut Ida, aturan pemberian sweetener ini hanya berlaku bagi perusahaan besar. Namun dia juga belum merinci kriteria perusahaan yang akan terkena aturan ini. Ida mengklaim sudah ada kesepakatan di kalangan pengusaha agar usaha kecil dan menengah (UKM) tak dikenai aturan ini.
+    "Ini memang sudah dikomunikasikan, UKM tentu tidak terkena beban ini. Tidak semua perusahaan mampu. Saya kira, kan banyak kemudahan yang diberikan omnibus law, maka ini penghargaan untuk pekerja," ucap dia.
+    </TEXT>
+</DOC>
